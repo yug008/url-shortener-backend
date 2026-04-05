@@ -39,4 +39,9 @@ public class UrlController {
         return ResponseEntity.ok(urlMapping);
     }
 
+    @GetMapping("/api/health")
+public ResponseEntity<String> health() {
+    return ResponseEntity.ok("UP");
+}
+
 }
