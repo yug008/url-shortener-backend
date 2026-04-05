@@ -2,7 +2,7 @@
 
 A REST API for shortening URLs, built with **Spring Boot** and **PostgreSQL**. Supports URL shortening, redirection, and click tracking.
 
-🔗 **Live Demo:** _Coming soon_
+🔗 **Live Demo:** https://url-shortener-frontend-tau-nine.vercel.app
 
 ---
 
