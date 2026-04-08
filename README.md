@@ -12,6 +12,7 @@ A REST API for shortening URLs, built with **Spring Boot** and **PostgreSQL**. S
 - 🔄 **Redirection** — Visit the short URL and get redirected to the original
 - 📊 **Click Counter** — Tracks how many times each short URL has been clicked
 - 🛡️ **CORS Configured** — Ready for frontend integration
+- 🔐 Secured with JWT-based authentication and protected APIs
 
 ---
 
