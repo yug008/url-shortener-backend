@@ -4,6 +4,9 @@ A REST API for shortening URLs, built with **Spring Boot** and **PostgreSQL**. S
 
 🔗 **Live Demo:** https://url-shortener-frontend-tau-nine.vercel.app
 
+💻 **Backend Repo:** [url-shortener-backend](https://github.com/yug008/url-shortener-backend)
+
+💻 **Frontend Repo:** [url-shortener-frontend](https://github.com/yug008/url-shortener-frontend)
 ---
 
 ## ✨ Features
