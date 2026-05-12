@@ -7,6 +7,7 @@ A REST API for shortening URLs, built with **Spring Boot** and **PostgreSQL**. S
 💻 **Backend Repo:** [url-shortener-backend](https://github.com/yug008/url-shortener-backend)
 
 💻 **Frontend Repo:** [url-shortener-frontend](https://github.com/yug008/url-shortener-frontend)
+
 ---
 
 ## ✨ Features
