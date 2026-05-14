@@ -117,7 +117,7 @@ App runs on `http://localhost:8080`
 
 ## 🌍 Deployment
 
-Deployed on **Railway** with a managed PostgreSQL database.
+Deployed on **Render** with a managed PostgreSQL database.
 
 ---
 
